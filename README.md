@@ -72,7 +72,3 @@ The **MCP server**:
 ### 🧪 Test Workflows Before Merging
 **“Validate this workflow file”**  
 → Catch **YAML errors** before they break CI.
-
-
-# mcp_github_action
-# mcp_github_action
