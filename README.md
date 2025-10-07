@@ -42,7 +42,8 @@ GitHub Actions is powerful — but debugging CI failures means context-switching
 | **Local simulation (WIP)**  | `simulate_run(branch="test")`                                        | CLI                       |
 
 ## How It Works
-<img width="3840" height="267" alt="Untitled diagram _ Mermaid Chart-2025-10-06-144729" src="https://github.com/user-attachments/assets/65ffaf1a-a85f-45c6-9783-6e66d3f2a3ed" />
+<img width="3840" height="267" alt="Untitled diagram _ Mermaid Chart-2025-10-06-144729" src="https://github.com/user-attachments/assets/300ac15a-7aa1-4519-b546-5e0b09d4724f" />
+
 
 The **MCP server**:
 
